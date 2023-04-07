@@ -1,0 +1,110 @@
+2023-03-31T22:30:00+05:30 to 2023-04-01T23:30:00+05:30 - Dev Report Meet
+Location: No location provided
+Attendees: ['consultbibek@gmail.com', 'roybaishali07@gmail.com', 'duttashaan102@gmail.com', 'pritamsengupta2016@gmail.com']
+Color ID: No color ID provided
+
+2023-04-01T22:30:00+05:30 to 2023-04-02T23:30:00+05:30 - Dev Report Meet
+Location: No location provided
+Attendees: ['consultbibek@gmail.com', 'roybaishali07@gmail.com', 'duttashaan102@gmail.com', 'pritamsengupta2016@gmail.com']
+Color ID: No color ID provided
+
+2023-04-02T22:30:00+05:30 to 2023-04-03T23:30:00+05:30 - Dev Report Meet
+Location: No location provided
+Attendees: ['consultbibek@gmail.com', 'roybaishali07@gmail.com', 'duttashaan102@gmail.com', 'pritamsengupta2016@gmail.com']
+Color ID: No color ID provided
+
+2023-04-03T22:30:00+05:30 to 2023-04-04T23:30:00+05:30 - Dev Report Meet
+Location: No location provided
+Attendees: ['consultbibek@gmail.com', 'roybaishali07@gmail.com', 'duttashaan102@gmail.com', 'pritamsengupta2016@gmail.com']
+Color ID: No color ID provided
+
+2023-04-04T22:30:00+05:30 to 2023-04-05T23:30:00+05:30 - Dev Report Meet
+Location: No location provided
+Attendees: ['consultbibek@gmail.com', 'roybaishali07@gmail.com', 'duttashaan102@gmail.com', 'pritamsengupta2016@gmail.com']
+Color ID: No color ID provided
+
+2023-04-05T13:30:00+05:30 to 2023-04-05T14:30:00+05:30 - Hello
+Location: No location provided
+Attendees: ['roybaishali07@gmail.com', 'duttashaan102@gmail.com']
+Color ID: No color ID provided
+
+2023-04-05T22:30:00+05:30 to 2023-04-06T23:30:00+05:30 - Dev Report Meet
+Location: No location provided
+Attendees: ['consultbibek@gmail.com', 'roybaishali07@gmail.com', 'duttashaan102@gmail.com', 'pritamsengupta2016@gmail.com']
+Color ID: No color ID provided
+
+2023-04-06T22:30:00+05:30 to 2023-04-07T23:30:00+05:30 - Dev Report Meet
+Location: No location provided
+Attendees: ['consultbibek@gmail.com', 'roybaishali07@gmail.com', 'duttashaan102@gmail.com', 'pritamsengupta2016@gmail.com']
+Color ID: No color ID provided
+
+2023-04-07T22:30:00+05:30 to 2023-04-08T23:30:00+05:30 - Dev Report Meet
+Location: No location provided
+Attendees: ['consultbibek@gmail.com', 'roybaishali07@gmail.com', 'duttashaan102@gmail.com', 'pritamsengupta2016@gmail.com']
+Color ID: No color ID provided
+
+2023-04-08T22:30:00+05:30 to 2023-04-09T23:30:00+05:30 - Dev Report Meet
+Location: No location provided
+Attendees: ['consultbibek@gmail.com', 'roybaishali07@gmail.com', 'duttashaan102@gmail.com', 'pritamsengupta2016@gmail.com']
+Color ID: No color ID provided
+
+2023-04-09T22:30:00+05:30 to 2023-04-10T23:30:00+05:30 - Dev Report Meet
+Location: No location provided
+Attendees: ['consultbibek@gmail.com', 'roybaishali07@gmail.com', 'duttashaan102@gmail.com', 'pritamsengupta2016@gmail.com']
+Color ID: No color ID provided
+
+2023-04-10T22:30:00+05:30 to 2023-04-11T23:30:00+05:30 - Dev Report Meet
+Location: No location provided
+Attendees: ['consultbibek@gmail.com', 'roybaishali07@gmail.com', 'duttashaan102@gmail.com', 'pritamsengupta2016@gmail.com']
+Color ID: No color ID provided
+
+2023-04-11T22:30:00+05:30 to 2023-04-12T23:30:00+05:30 - Dev Report Meet
+Location: No location provided
+Attendees: ['consultbibek@gmail.com', 'roybaishali07@gmail.com', 'duttashaan102@gmail.com', 'pritamsengupta2016@gmail.com']
+Color ID: No color ID provided
+
+2023-04-12T09:00:00+05:30 to 2023-04-12T10:00:00+05:30 - meeting
+Location: No location provided
+Attendees: ['roybaishali07@gmail.com', 'duttashaanduttashaan102@gmail.com']
+Color ID: 10
+
+2023-04-12T22:30:00+05:30 to 2023-04-13T23:30:00+05:30 - Dev Report Meet
+Location: No location provided
+Attendees: ['consultbibek@gmail.com', 'roybaishali07@gmail.com', 'duttashaan102@gmail.com', 'pritamsengupta2016@gmail.com']
+Color ID: No color ID provided
+
+2023-04-13T22:30:00+05:30 to 2023-04-14T23:30:00+05:30 - Dev Report Meet
+Location: No location provided
+Attendees: ['consultbibek@gmail.com', 'roybaishali07@gmail.com', 'duttashaan102@gmail.com', 'pritamsengupta2016@gmail.com']
+Color ID: No color ID provided
+
+2023-04-14T22:30:00+05:30 to 2023-04-15T23:30:00+05:30 - Dev Report Meet
+Location: No location provided
+Attendees: ['consultbibek@gmail.com', 'roybaishali07@gmail.com', 'duttashaan102@gmail.com', 'pritamsengupta2016@gmail.com']
+Color ID: No color ID provided
+
+2023-04-15T22:30:00+05:30 to 2023-04-16T23:30:00+05:30 - Dev Report Meet
+Location: No location provided
+Attendees: ['consultbibek@gmail.com', 'roybaishali07@gmail.com', 'duttashaan102@gmail.com', 'pritamsengupta2016@gmail.com']
+Color ID: No color ID provided
+
+2023-04-16T22:30:00+05:30 to 2023-04-17T23:30:00+05:30 - Dev Report Meet
+Location: No location provided
+Attendees: ['consultbibek@gmail.com', 'roybaishali07@gmail.com', 'duttashaan102@gmail.com', 'pritamsengupta2016@gmail.com']
+Color ID: No color ID provided
+
+2023-04-17T09:00:00+05:30 to 2023-04-17T10:00:00+05:30 - meeting
+Location: No location provided
+Attendees: ['roybaishali07@gmail.com', 'duttashaanduttashaan102@gmail.com']
+Color ID: 10
+
+2023-04-17T22:30:00+05:30 to 2023-04-18T23:30:00+05:30 - Dev Report Meet
+Location: No location provided
+Attendees: ['consultbibek@gmail.com', 'roybaishali07@gmail.com', 'duttashaan102@gmail.com', 'pritamsengupta2016@gmail.com']
+Color ID: No color ID provided
+
+2023-04-18T22:30:00+05:30 to 2023-04-19T23:30:00+05:30 - Dev Report Meet
+Location: No location provided
+Attendees: ['consultbibek@gmail.com', 'roybaishali07@gmail.com', 'duttashaan102@gmail.com', 'pritamsengupta2016@gmail.com']
+Color ID: No color ID provided
+
