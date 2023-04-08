@@ -29,7 +29,7 @@ def authenticate():
         else:
             flow = InstalledAppFlow.from_client_secrets_file(
                 CREDENTIALS_FILE, API_SCOPES)
-            creds = flow.run_local_server(port=0)
+            creds = flow.run_local_server(port=41519)
         with open(TOKEN_FILE, 'wb') as token:
             pickle.dump(creds, token)
     return creds
